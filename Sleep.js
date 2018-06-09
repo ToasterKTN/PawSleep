@@ -14,6 +14,6 @@ Sleep.identifier = "ch.ktn.PawExtensions.Sleep";
 // give a display name to your Dynamic Value
 Sleep.title = "Sleep for an amount of Seconds";
 // link to the Dynamic Value documentation
-Sleep.help = "https://google.com/";
+Sleep.help = "https://github.com/ToasterKTN/PawSleep/blob/master/README.md";
 // call to register function is required
 registerDynamicValueClass(Sleep)
